@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  animation: 
+  is_sent: false
+
+two:
+  animation: 
+  is_sent: false
